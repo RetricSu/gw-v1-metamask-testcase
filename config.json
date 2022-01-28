@@ -1,0 +1,6 @@
+{
+  "web3RpcUrl": "http://localhost:8024",
+  "metaMaskEthAddress": "0xFb2C72d3ffe10Ef7c9960272859a23D24db9e04A",
+  "withdrawToCkbAddress": "ckb1qyq9lt0z0wxevks5z97degwtky5pyflus82s465ddg",
+  "erc20ContractAddress": "0x6b175474e89094c44da98b954eedeac495271d0f"
+}
